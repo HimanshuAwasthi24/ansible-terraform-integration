@@ -1,0 +1,6 @@
+ami_value = "Enter your AMI ID here"
+subnet_id_value = "Entrer your Subnet ID here"
+instance_type_value = "t2.micro"
+vpc_id_value = "Enter your VPC ID here"
+key_name_value = "Enter your Key Name here"
+private_key_path = "Enter the path to your private key file here"
